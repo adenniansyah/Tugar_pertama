@@ -1,2 +1,2 @@
-# Tugar_pertama
+# Tugas_pertama
 Tugas Github 1
